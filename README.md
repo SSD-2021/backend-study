@@ -1,14 +1,15 @@
 # Backend-Study
 
 :white_check_mark: JAVA STDUY : JAVA의 정석
-📍 chapter 6 : 객체 지향 프로그래밍 1
-📍 chapter 7 : 객체 지향 프로그래밍 2
-📍 chapter 8 : 예외처리
-📍 chapter 9 : JAVA.lang package
-📍 chapter 11,12: Collection Framework and Classes
-📍 chapter 13: Thread
-📍 chapter 15: I/O
-📍 chapter 16: Networking
+
+📍 chapter 6 : 객체 지향 프로그래밍 1  
+📍 chapter 7 : 객체 지향 프로그래밍 2  
+📍 chapter 8 : 예외처리  
+📍 chapter 9 : JAVA.lang package  
+📍 chapter 11,12: Collection Framework and Classes  
+📍 chapter 13: Thread  
+📍 chapter 15: I/O  
+📍 chapter 16: Networking  
 
 🐳 Problem Solving
 
