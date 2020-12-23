@@ -11,6 +11,12 @@
   - 그래프 이론
   
 - BOJ solved.ac class 1 ~ 5
+  - ~~class 1~~
+  - ~~class 2~~
+  - class 3
+  - class 4
+  - class 5
+  
 - 프로그래머스 유형별 문제 
 - 삼성전자 SW 역량 테스트 기출 문제
 - 카카오 블라인드 채용 기출 문제
