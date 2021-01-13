@@ -8,12 +8,12 @@
   - ~~이진 탐색~~
   - ~~DP~~
   - ~~최단 경로~~
-  - 그래프 이론
+  - ~~그래프 이론~~
   
 - BOJ solved.ac class 1 ~ 5
   - ~~class 1~~
   - ~~class 2~~
-  - class 3
+  - class 3 (~ing)
   - class 4
   - class 5
   
