@@ -2,25 +2,25 @@
 
 ## :whale: JAVA의 정석
 
-:white_large_square: chapter 6 &nbsp;&nbsp; : &nbsp; 객체 지향 프로그래밍 I  
-:white_large_square: chapter 7 &nbsp;&nbsp; : &nbsp; 객체 지향 프로그래밍 II  
-:white_large_square: chapter 8 &nbsp;&nbsp; : &nbsp; 예외처리  
-:white_large_square: chapter 9 &nbsp;&nbsp; : &nbsp; java.lang package  
-:white_large_square: chapter 11 &nbsp; : &nbsp; Collection framework  
-:white_large_square: chapter 12 &nbsp; : &nbsp; 유용한 클래스들  
-:white_large_square: chapter 13 &nbsp; : &nbsp; Thread  
-:white_large_square: chapter 15 &nbsp; : &nbsp; I/O  
-:white_large_square: chapter 16 &nbsp; : &nbsp; Networking  
+:white_large_square: chapter 6 : &nbsp; 객체 지향 프로그래밍 I  
+:white_large_square: chapter 7 : &nbsp; 객체 지향 프로그래밍 II  
+:white_large_square: chapter 8 : &nbsp; 예외처리  
+:white_large_square: chapter 9 : &nbsp; java.lang package  
+:white_large_square: chapter 11 : &nbsp; Collection framework  
+:white_large_square: chapter 12 : &nbsp; 유용한 클래스들  
+:white_large_square: chapter 13 : &nbsp; Thread  
+:white_large_square: chapter 15 : &nbsp; I/O  
+:white_large_square: chapter 16 : &nbsp; Networking  
 
 ## :dolphin: Problem Solving
 
-:white_check_mark: 1) &nbsp; 이것이 코딩 테스트다 ( 책 완독 ) -> 31일 까지 끝내기  
-:white_check_mark: 2) &nbsp; Class 3까지  
-:white_large_square: 2) &nbsp; Class 4까지  
-:white_large_square: 3) &nbsp; 프로그래머스 유형별 문제풀기 (전체 다)  
-:white_large_square: 4) &nbsp; Class 5까지  
-:white_large_square: 5) &nbsp; samsung 기출 문제 40개 (골드 1~5)  
-:white_large_square: 6) &nbsp; 카카오 기출 문제  
+:white_check_mark: 1) 이것이 코딩 테스트다 ( 책 완독 ) -> 31일 까지 끝내기  
+:white_check_mark: 2) Class 3까지  
+:white_large_square: 2) Class 4까지  
+:white_large_square: 3) 프로그래머스 유형별 문제풀기 (전체 다)  
+:white_large_square: 4) Class 5까지  
+:white_large_square: 5) samsung 기출 문제 40개 (골드 1~5)  
+:white_large_square: 6) 카카오 기출 문제  
 
 
 ## :page_facing_up: Commit Message
