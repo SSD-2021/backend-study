@@ -15,7 +15,8 @@
 ## :dolphin: Problem Solving
 
 :white_check_mark: 1) &nbsp; 이것이 코딩 테스트다 ( 책 완독 ) -> 31일 까지 끝내기  
-:white_large_square: 2) &nbsp; Class 3까지  
+:white_check_mark: 2) &nbsp; Class 3까지  
+:white_large_square: 2) &nbsp; Class 4까지  
 :white_large_square: 3) &nbsp; 프로그래머스 유형별 문제풀기 (전체 다)  
 :white_large_square: 4) &nbsp; Class 5까지  
 :white_large_square: 5) &nbsp; samsung 기출 문제 40개 (골드 1~5)  
